@@ -43,9 +43,13 @@ Your users should be able to:
 
 ### What I learned
 
+This was the first challenge I attempted on the Front End Mentor without an official solution to reference. That whole concept was terrifying at first, but I quickly reaped the rewards by feeling more independant as a developer.
+
 ```html
 
 ```
+
+Diff semantic els for text - strong for price + span to style 'per month' as slightly opaque all within same `p` | articles + sections with divs as top-level parents
 
 ```css
 
@@ -63,12 +67,6 @@ Your users should be able to:
 -  Linkedin - [Joshua Jameson-Wallis](https://www.linkedin.com/in/joshua-jameson-wallis/)
 
 ###### TODO
-
-HTML:
-
-First Front End Mentor challenge - without formal solution (contrast to tutorials on Treehouse or YT)
-
-Diff semantic els for text - strong for price + span to style 'per month' as slightly opaque all within same `p` | articles + sections with divs as top-level parents
 
 CSS:
 
