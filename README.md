@@ -1,6 +1,6 @@
-# Frontend Mentor - ‘…’ solution
+# Frontend Mentor - Single price grid component solution
 
-This is a solution to the **‘…’** challenge on Frontend Mentor(link)
+This is a solution to the [Single price grid component challenge](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc) on Frontend Mentor
 
 ## Table of contents
 
@@ -14,7 +14,6 @@ This is a solution to the **‘…’** challenge on Frontend Mentor(link)
    -  [Continued development](#continued-development)
    -  [Useful resources](#useful-resources)
 -  [Author](#author)
--  [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -22,66 +21,49 @@ This is a solution to the **‘…’** challenge on Frontend Mentor(link)
 
 Your users should be able to:
 
+-  View the optimal layout for the component depending on their device's screen size
+-  See a hover state on desktop for the Sign Up call-to-action
+
 ### Screenshot
 
 ![](./screenshot.png)
 
 ### Links
 
--  Live Site URL:
+-  Live Site URL: https://single-price-grid-component-jjw.netlify.app/
 
 ## My process
 
 ### Built with
 
 -  Semantic HTML5 markup
--  CSS custom properties
 -  Flexbox
 -  CSS Grid
 -  Mobile-first workflow
--  [React](https://reactjs.org/) - JS library
--  [Styled Components](https://styled-components.com/) - For styles
--  Sass - CSS preprocessor
 
 ### What I learned
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+
 ```
 
 ```css
-.proud-of-this-css {
-   color: papayawhip;
-}
-```
 
-```js
-const proudOfThisFunc = () => {
-   console.log('🎉')
-}
 ```
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
 ### Useful resources
 
--  [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+-  [Example resource 1](https://www.example.com) - This helped me for XYZ reason.
 
 ## Author
 
--  Website - [Joshua Jameson-Wallis](https://joshuajamesonwallis.com)
--  Linkedin - [Joshua Jameson-Wallis]()
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+-  Website - [Joshua Jameson-Wallis](https://www.joshuajamesonwallis.com/)
+-  Linkedin - [Joshua Jameson-Wallis](https://www.linkedin.com/in/joshua-jameson-wallis/)
 
 ###### TODO
 
 HTML:
 
 CSS:
-
-JS:
