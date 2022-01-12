@@ -57,7 +57,13 @@ I used this project to practice using different semantic elements where appropri
 
 ```
 
+Grid item height auto-responding to word wrapping | attempted fix with fixed widths - causes overflow | Grid column property to expand top row over 2 columns
+
 ### Continued development
+
+Further learning - Individual corner radius for parent wrapper - desire to see if another method
+
+submit sign up btn didn't refresh page - desire to understand why
 
 ### Useful resources
 
@@ -67,13 +73,3 @@ I used this project to practice using different semantic elements where appropri
 
 -  Website - [Joshua Jameson-Wallis](https://www.joshuajamesonwallis.com/)
 -  Linkedin - [Joshua Jameson-Wallis](https://www.linkedin.com/in/joshua-jameson-wallis/)
-
-###### TODO
-
-CSS:
-
-Mobile column view with Grid not Flex | fluid btn width to match (100%)
-
-Grid item height auto-responding to word wrapping | attempted fix with fixed widths - causes overflow | Grid column property to expand top row over 2 columns
-
-Further learning - Individual corner radius for parent wrapper - desire to see if another method | submit sign up btn didn't refresh page - desire to understand why
