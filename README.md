@@ -66,4 +66,14 @@ Your users should be able to:
 
 HTML:
 
+First Front End Mentor challenge - without formal solution (contrast to tutorials on Treehouse or YT)
+
+Diff semantic els for text - strong for price + span to style 'per month' as slightly opaque all within same `p`
+
 CSS:
+
+Mobile column view with Grid not Flex | fluid btn width to match (100%)
+
+Grid item height auto-responding to word wrapping | attempted fix with fixed widths - causes overflow | Grid column property to expand top row over 2 columns
+
+Individual corner radius for parent wrapper - desire to see if another method
