@@ -43,7 +43,7 @@ Your users should be able to:
 
 ### What I learned
 
-This was the first challenge I attempted on the Front End Mentor without an official solution to reference. That whole concept was terrifying at first, but I quickly reaped the rewards by feeling more independant as a developer.
+This was the first challenge I attempted on the Front End Mentor without an official solution to reference. That whole concept was terrifying at first, but I quickly reaped the rewards by feeling more independant as a developer after successfully completing it.
 
 ```html
 <p class="light-grey">
@@ -51,7 +51,7 @@ This was the first challenge I attempted on the Front End Mentor without an offi
 </p>
 ```
 
-I used this project to practice using different semantic elements where appropriate. These tags provide extra semantic meaning to screen readers for visually impaired users, so it's important we consider that when writing out our markup.
+I used this project to practice using different semantic elements where appropriate, providing additional context to screen readers for visually impaired users. It's important we consider accessibility when writing out our markup, as writing semantic HTML is one of the best ways we can adhere to the set guidlines for doing so.
 
 ```css
 .join {
@@ -62,15 +62,11 @@ I used this project to practice using different semantic elements where appropri
 }
 ```
 
-I had only recently learnt about the `grid-column` property when using CSS Grid, so this project provided a nice means at practicing it. For me, the most difficult challenge when using Grid is visualising the layout in terms of columns and rows and figuring out where each item should stretch to. I realise this will come with more practice, and I'm aware of the Grid inspector tool that lives in the Developer Tools as well.
+I had only recently learnt about the `grid-column` property when using CSS Grid, so this project provided a nice means at practicing it. For me, the most difficult challenge when using Grid is visualising the layout in terms of columns and rows, whilst figuring out where each item should stretch to. I realise this will come with more practice, and I'm aware of the Grid inspector tool that lives in the Developer Tools to help us out as well.
 
 ### Continued development
 
-I look forward to experimenting more with the border-radius property, since I find myself constantly having to change specific corner radiuses at different viewport sizes.
-
-### Useful resources
-
--  [Example resource 1](https://www.example.com) - This helped me for XYZ reason.
+I look forward to experimenting more with the border-radius property since I find myself constantly having to change specific corner radiuses at different viewport sizes manually.
 
 ## Author
 
