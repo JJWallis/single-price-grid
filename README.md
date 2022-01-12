@@ -54,16 +54,19 @@ This was the first challenge I attempted on the Front End Mentor without an offi
 I used this project to practice using different semantic elements where appropriate. These tags provide extra semantic meaning to screen readers for visually impaired users, so it's important we consider that when writing out our markup.
 
 ```css
-
+.join {
+   grid-column: 1 / 3;
+   background-color: white;
+   border-top-left-radius: 5px;
+   border-top-right-radius: 5px;
+}
 ```
 
-Grid item height auto-responding to word wrapping | attempted fix with fixed widths - causes overflow | Grid column property to expand top row over 2 columns
+I had only recently learnt about the `grid-column` property when using CSS Grid, so this project provided a nice means at practicing it. For me, the most difficult challenge when using Grid is visualising the layout in terms of columns and rows and figuring out where each item should stretch to. I realise this will come with more practice, and I'm aware of the Grid inspector tool that lives in the Developer Tools as well.
 
 ### Continued development
 
-Further learning - Individual corner radius for parent wrapper - desire to see if another method
-
-submit sign up btn didn't refresh page - desire to understand why
+I look forward to experimenting more with the border-radius property, since I find myself constantly having to change specific corner radiuses at different viewport sizes.
 
 ### Useful resources
 
