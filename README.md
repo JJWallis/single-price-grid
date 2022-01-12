@@ -46,10 +46,12 @@ Your users should be able to:
 This was the first challenge I attempted on the Front End Mentor without an official solution to reference. That whole concept was terrifying at first, but I quickly reaped the rewards by feeling more independant as a developer.
 
 ```html
-
+<p class="light-grey">
+   <strong class="price">$29</strong><span class="opaque">per month</span>
+</p>
 ```
 
-Diff semantic els for text - strong for price + span to style 'per month' as slightly opaque all within same `p` | articles + sections with divs as top-level parents
+I used this project to practice using different semantic elements where appropriate. These tags provide extra semantic meaning to screen readers for visually impaired users, so it's important we consider that when writing out our markup.
 
 ```css
 
